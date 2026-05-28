@@ -130,3 +130,4 @@ password = addlst[:3] + str(len(addlst)) +str(addlst.count("e")) + "!"
 print("{0} 의 비밀번호는 {1} 압나다.".format(add, password))
 print("맥북프로13인치에서 테스트 파일 업로드 입니다,")
 #여기까지 맥미니
+#여기는 맥북프로로 작성하여 업로드 입니다.
